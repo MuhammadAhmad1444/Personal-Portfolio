@@ -1,0 +1,27 @@
+{
+  "name": "personal-portfolio",
+  "version": "1.0.0",
+  "description": "M Ahmad's Personal Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo \"This is a static site. Open index.html in your browser.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadAhmad1444/Personal-Portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "web-development",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "M Ahmad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MuhammadAhmad1444/Personal-Portfolio/issues"
+  },
+  "homepage": "https://github.com/MuhammadAhmad1444/Personal-Portfolio#readme"
+} 
